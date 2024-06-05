@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Developed+BackEnd+and+FrontEnd;Always+learning+new+things"></a>
 </p>
 <p align="center">
-    <img src="https://github.com/agutemal/agutemal/logoGit.jpg">
+    <img src="https://github.com/agutemal/agutemal/blob/main/logoGit.jpg">
 </p>
 
 <br>
