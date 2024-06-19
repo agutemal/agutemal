@@ -7,12 +7,13 @@
 </p>
 <br>
 <h3 align="left">BackEnd Development Tools:</h3>
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,spring,git,mysql" />
   </a>
-</p>
 <h3 align="left">FronEnd Development Tools:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
+  </a>
 <!--
 **agutemal/agutemal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
